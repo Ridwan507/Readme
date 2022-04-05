@@ -40,7 +40,7 @@
 
 <p align="center">
 <a href="https://github.com/Ridwan507/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=srart24&show_icons=true&include_all_commits=true&theme=material-palenight" alt="LordLightness github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ridwan507&show_icons=true&include_all_commits=true&theme=material-palenight" alt="LordLightness github stats" />
 </a>
 </p>
   
